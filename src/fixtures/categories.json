@@ -1,0 +1,48 @@
+[
+    {
+        "title": "Deals of the Day",
+        "categories": [
+            {
+                "image": "/images/categories/bottles.jpeg",
+                "name": "Flask & Bottles",
+                "price": "From Rs.299",
+                "subtitle": "Milton & more"
+            }, {
+                "image": "/images/categories/dresses.jpeg",
+                "name": "Libas, Varanga, Gerua",
+                "price": "Min. 50% Off",
+                "subtitle": "Kurtas, Sets & Bottoms"
+            }, {
+                "image": "/images/categories/oil.jpeg",
+                "name": "Oil Dispenser & more",
+                "price": "From ₹149",
+                "subtitle": "Wonderchef & more"
+            }, {
+                "image": "/images/categories/shoes.jpeg",
+                "name": "Sparx, Bata & more",
+                "price": "From ₹199+Extra50%Off",
+                "subtitle": "Shoes, Sandals & more"
+            }, {
+                "image": "/images/categories/child-dress.jpeg",
+                "name": "Girl's Dresses",
+                "price": "Min. 50%+Extra10% Off",
+                "subtitle": "Barbie, Allen Solly & more"
+            }, {
+                "image": "/images/categories/sanitizer.jpeg",
+                "name": "Sanitizers & Hand Washes",
+                "price": "Extra 5% Off",
+                "subtitle": "Dettol, Lifebuoy, Dabur"
+            }, {
+                "image": "/images/categories/trolley.jpeg",
+                "name": "Kitchen Trolley & more",
+                "price": "Extra 10% Off",
+                "subtitle": "Space Saving furniture"
+            }, {
+                "image": "/images/categories/bag.jpeg",
+                "name": "Bean Bag Cover & more",
+                "price": "From ₹199",
+                "subtitle": "Deal Of The Day"
+            }
+        ]
+    }
+]
