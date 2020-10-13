@@ -1,0 +1,244 @@
+[
+    {
+      "id": 1,
+      "title": "Electronics",
+      "items": [
+        {
+            "type": "Mobiles",
+            "products" : [
+                "Mi",
+                "Realme",
+                "Samsung",
+                "Infinix",
+                "OPPO",
+                "Apple",
+                "Vivo",
+                "Honor",
+                "Asus",
+                "Poco X2",
+                "realme Narzo 10",
+                "Infinix Hot 9",
+                "IQOO 3",
+                "iPhone SE",
+                "Motorola razr",
+                "realme Narzo 10A",
+                "Motorola g8 power lite"
+            ]
+        },{
+            "type": "Mobile Accessories",
+            "products": [
+                "Mobile Cases",
+                "Headphones & Headsets",
+                "Power Banks",
+                "Screenguards",
+                "Memory Cards",
+                "Smart Headphones",
+                "Mobile Cables",
+                "Mobile Chargers",
+                "Mobile Holders",
+                "Smart Watches",
+                "Smart Glasses (VR)",
+                "Smart Bands",
+                "Bp Monitors",
+                "Weighing Scale"
+            ]
+        }, {
+            "type": "Laptop",
+            "products": [
+                "Laptops",
+                "Gaming Laptops",
+                "Desktop PCs",
+                "Gaming & Accessories",
+                "Computer Accessories",
+                "External Hard Disks",
+                "Pendrives",
+                "Laptop Skins & Decals",
+                "Laptop Bags",
+                "Mouse",
+                "Computer Peripherals",
+                "Printers & Ink Cartridges",
+                "Monitors",
+                "Tablets",
+                "Apple iPads"
+            ]
+        }, {
+            "type": "Speakers",
+            "products": [
+                "Speakers",
+                "Home Audio Speakers",
+                "Home Theatres",
+                "Soundbars",
+                "Bluetooth Speakers",
+                "DTH Set Top Box",
+                "Smart Home Automation",
+                "Google Nest",
+                "Camera",
+                "DSLR & Mirrorless",
+                "Compact & Bridge Cameras",
+                "Sports & Action",
+                "Camera Accessories",
+                "Lens",
+                "Tripods",
+                "Network Components",
+                "Routers"
+            ]
+        }, {
+            "type": "Featured",
+            "products": [
+                "Google Assistant Store",
+                "Laptops on Buyback Guarantee",
+                "Flipkart SmartBuy",
+                "Li-Polymer Power Banks",
+                "Sony PS4 Pro & Slim",
+                "Apple Products",
+                "Microsoft Store",
+                "Lenovo Phab Series",
+                "JBL Speakers",
+                "Smartphones On Buyback Guarantee",
+                "Philips",
+                "Dr. Morepen",
+                "Complete Mobile Protection",
+                "Mobiles No Cost EMI",
+                "Huawei Watch Gt 2e Smart Watch"
+            ]
+        }
+      ]
+    },
+    {
+        "id": 2,
+        "title": "TVs & Appliances Men",
+        "items": [
+            {
+                "type": "",
+                "products": [
+                    "Television",
+                    "New Launches",
+                    "Smart & Ultra HD",
+                    "Top Brands",
+                    "Mi",
+                    "Vu",
+                    "Thomson",
+                    "Samsung",
+                    "iFFALCON by TCL",
+                    "Nokia",
+                    "LG",
+                    "realme",
+                    "Motorola",
+                    "Shop by Screen Size",
+                    "24 & below",
+                    "28 - 32",
+                    "39 - 43",
+                    "48 - 55",
+                    "60 & above"
+                ]
+            }, {
+                "type": "",
+                "products": [
+                    "Washing Machine",
+                    "Fully Automatic Front Load",
+                    "Semi Automatic Top Load",
+                    "Fully Automatic Top Load",
+                    "Air Conditioners",
+                    "Inverter AC",
+                    "Split ACs",
+                    "Window ACs",
+                    "Shop By Brand",
+                    "LG",
+                    "Hitachi",
+                    "Carrier",
+                    "Refrigerators",
+                    "Single Door",
+                    "Double Door",
+                    "Triple door",
+                    "Side by Side",
+                    "Convertible"
+                ]
+            }, {
+                "products": [
+                    "Kitchen Appliances",
+                    "Microwave Ovens",
+                    "Oven Toaster Grills (OTG)",
+                    "Juicer/Mixer/Grinder",
+                    "Electric Kettle",
+                    "Induction Cooktops",
+                    "Chimneys",
+                    "Hand Blenders",
+                    "Sandwich Makers",
+                    "Pop Up Toasters",
+                    "Electric Cookers",
+                    "Wet Grinders",
+                    "Food Processors",
+                    "Coffee Makers",
+                    "Dishwashers",
+                    "Healthy Living Appliances"
+                ]
+            }, {
+                "products": [
+                    "Small Home Appliances",
+                    "Irons",
+                    "Water Purifiers",
+                    "Fans",
+                    "Air Coolers",
+                    "Inverters",
+                    "Vacuum Cleaners",
+                    "Sewing Machines",
+                    "Voltage Stabilizers",
+                    "Water Geysers",
+                    "Immersion Rods",
+                    "Top Brands",
+                    "Livpure",
+                    "Philips",
+                    "Bajaj",
+                    "IFB",
+                    "Eureka Forbes",
+                    "Kaff"
+                ] 
+            }, {
+                "products" : [
+                    "Buying Guides",
+                    "Televisions",
+                    "Washing Machines",
+                    "Refrigerators",
+                    "Air Conditioners",
+                    "Water Purifiers",
+                    "Air Purifiers",
+                    "Chimneys",
+                    "Water Geysers",
+                    "New Launches",
+                    "Coocaa Smart TVs",
+                    "Nokia (55) 4K Android TV",
+                    "Mi (32) 4A Pro Android TV",
+                    "MarQ (43) FHD Smart TV",
+                    "LG Refrigerators",
+                    "Thomson (40) 4K Smart TV",
+                    "Whirlpool Refrigerators",
+                    "Kodak (22) | (32) LED TVs"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Men"
+    },
+    {
+        "id": 4,
+        "title": "Women"
+    },
+    {
+        "id": 5,
+        "title": "Baby & Kids"
+    },
+    {
+        "id": 6,
+        "title": "Home & Furniture"
+    },
+    {
+        "id": 7,
+        "title": "Flights"
+    },
+    {
+        "id": 8,
+        "title": "Sports, Books & More"
+    }
+]

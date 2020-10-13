@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "title": "My Account",
+      "items": [
+        "My Profile",
+        "Coin Zone",
+        "Flipkart Plus Zone",
+        "Orders",
+        "Wishlist",
+        "My Chats",
+        "Coupons",
+        "Giftcards",
+        "Notification",
+        "Logout"
+      ]
+    },
+    {
+        "id": 2,
+        "title": "More",
+        "items": [
+          "Notification Preferenes",
+          "Sell on Flipkart",
+          "24x7 Customer Care",
+          "Advertize",
+          "Download App"
+        ]
+      }
+]
