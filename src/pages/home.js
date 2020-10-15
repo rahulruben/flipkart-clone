@@ -2,28 +2,37 @@ import React from 'react';
 import { HeaderContainer } from '../container/header';
 import { CarouselContainer } from '../container/carousel';
 import Category from '../components/category';
+import categories from '../fixtures/categories.json';
+import { Jumbotron } from '../components';
 
 export default function Home() {
     return (
         <>
             <HeaderContainer />
-            <div style={{ margin: "10px 8em" }}>
+            <Jumbotron>
                 <CarouselContainer />
-                <Category>
-                    <Category.Header>
-                        <Category.Title></Category.Title>
-                        <Category.SubTitle></Category.SubTitle>
-                    </Category.Header>
-                    <Category.Products>
-                        <Category.Product>
-                            <Category.ProductImage />
-                            <Category.ProductTitle></Category.ProductTitle>
-                            <Category.ProductSubTitle></Category.ProductSubTitle>
-                            <Category.ProductPrice></Category.ProductPrice>
-                        </Category.Product>
-                    </Category.Products>
-                </Category>
-            </div>
+                {
+                    categories.map(c => (
+                        <Category>
+                            <Category.Header>
+                                <Category.Title>{c.title}</Category.Title>
+                            </Category.Header>
+                            <Category.Products>
+                                {
+                                    c.categories.map(p => (
+                                        <Category.Product>
+                                            <Category.ProductImage src={p.image} />
+                                            <Category.ProductTitle>{p.title}</Category.ProductTitle>
+                                            <Category.ProductPrice>{p.price}</Category.ProductPrice>
+                                            <Category.ProductSubTitle>{p.subtitle}</Category.ProductSubTitle>
+                                        </Category.Product>
+                                    ))
+                                }
+                            </Category.Products>
+                        </Category>
+                    ))
+                }
+            </Jumbotron>
             <div></div>
         </>
     )
